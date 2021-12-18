@@ -1,0 +1,75 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/faryaz/Desktop/OneHealthy/OneHealthy/OneHealthy.csproj": {}
+  },
+  "projects": {
+    "/Users/faryaz/Desktop/OneHealthy/OneHealthy/OneHealthy.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/faryaz/Desktop/OneHealthy/OneHealthy/OneHealthy.csproj",
+        "projectName": "OneHealthy",
+        "projectPath": "/Users/faryaz/Desktop/OneHealthy/OneHealthy/OneHealthy.csproj",
+        "packagesPath": "/Users/faryaz/.nuget/packages/",
+        "outputPath": "/Users/faryaz/Desktop/OneHealthy/OneHealthy/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/faryaz/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.13, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.13, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.402/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

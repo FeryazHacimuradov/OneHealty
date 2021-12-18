@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{A40D4E36-DEA0-47A8-BFD4-FB7AA2DD43CF}|Default">
+  <MonoDevelop.Ide.ItemProperties.OneHealthy PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="OneHealthy/Data/AppDbContext.cs">
+    <Files>
+      <File FileName="OneHealthy/Data/AppDbContext.cs" Line="26" Column="1" />
+      <File FileName="OneHealthy/appsettings.json" Line="11" Column="17" />
+      <File FileName="OneHealthy/Startup.cs" Line="36" Column="49" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="OneHealthy" expanded="True">
+            <Node name="OneHealthy" expanded="True">
+              <Node name="Data" expanded="True">
+                <Node name="AppDbContext.cs" selected="True" />
+              </Node>
+              <Node name="Models" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
